@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SDPEncryptor</string>
+    <string name="sdp_encryptor">SDP Encryptor</string>
+    <string name="messages">Messages:</string>
+    <string name="key_number">Key Number:</string>
+    <string name="encrypted_message">Encrypted Message:</string>
+    <string name="increment_number">Increment Number:</string>
+    <string name="encrypt">ENCRYPT</string>
+</resources>
